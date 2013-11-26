@@ -1,6 +1,6 @@
 # Iron_ebooks
 
-A simple and hackish ruby script for pseudorandomly posting to a _ebooks account tweets derived from a regular twitter account
+A simple and hackish ruby script for pseudorandomly posting to a _ebooks account tweets derived from a regular twitter account (modified to train on two accounts)
 
 ## Setup
 
