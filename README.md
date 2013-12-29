@@ -14,7 +14,7 @@ A simple and hackish ruby script for pseudorandomly posting to a _ebooks account
 8. Run "bundle install"
 9. Upload to iron.io with `bundle exec iron_worker upload ebook`
 10. Run it with `bundle exec iron_worker queue ebook` a few times
-11. You can schedule it now to run regularly using the scheduler. I'd suggest once every 53 minutes or so.
+11. You can schedule it now to run regularly using the iron.io scheduler (under the 'scheduled tasks' tab in your project) or cron. I'd suggest once every 53 minutes or so.
 
 ## Configuring
 
