@@ -5,5 +5,6 @@ Twitter.configure do |config|
   config.oauth_token_secret = 'KEY'
 end
 
-$source_account = 'your_regular_account'
+$source_account = '@First_Source' #the @username of the first source in quotes
+$source_account_two = '@Second_Source' #the @username of the second source in quotes
 $rand_limit = 10   # run 1 out of every $rand_limit times roughly
